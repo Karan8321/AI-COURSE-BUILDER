@@ -27,13 +27,13 @@ and generate educational courses using artificial intelligence. By simply enteri
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/bhataasim1/ai-content-generator.git
+   git clone https://github.com/Karan8321/AI-COURSE-BUILDER.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd ai-content-generator
+   cd AI-COURSE-BUILDER
    ```
 
 3. Install dependencies:
@@ -60,9 +60,10 @@ and generate educational courses using artificial intelligence. By simply enteri
     NEXT_PUBLIC_YOUTUBE_API_KEY="your-youtube-api-key"
    ```
 5. Run the development server:
-   `bash
+   ```bash
    npm run dev
-6. Visit`http://localhost:3000` to view the application.
+   ```
+6. Visit `http://localhost:3000` to view the application.
 
 ## Open to Contributions
 
